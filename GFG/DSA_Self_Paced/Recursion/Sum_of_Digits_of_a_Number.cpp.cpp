@@ -1,16 +1,7 @@
-//{ Driver Code Starts
-//Initial Template for C++
-
-
-
 #include <iostream>
 using namespace std;
 
-
-
-// } Driver Code Ends
 //User function Template for C++
-
 
 
 class Solution{
