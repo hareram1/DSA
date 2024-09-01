@@ -12,7 +12,6 @@ public:
     }
 };
 
-//{ Driver Code Starts.
 /* Driver program to test printNos */
 int main()
 {
@@ -34,5 +33,3 @@ int main()
     }
     return 0;
 }
-
-// } Driver Code Ends
