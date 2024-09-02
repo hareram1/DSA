@@ -1,4 +1,3 @@
-//{ Driver Code Starts
 //Initial Template for C++
 
 
@@ -7,7 +6,6 @@
 using namespace std;
 
 
-// } Driver Code Ends
 //User function Template for C++
 //Your code here
 vector<string> powerSet(string s) {
