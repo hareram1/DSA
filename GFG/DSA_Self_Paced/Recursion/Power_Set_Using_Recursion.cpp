@@ -1,6 +1,3 @@
-//Initial Template for C++
-
-
 // CPP program to generate power set
 #include <bits/stdc++.h>
 using namespace std;
