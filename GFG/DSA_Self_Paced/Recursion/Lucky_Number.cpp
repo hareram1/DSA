@@ -1,11 +1,9 @@
-//{ Driver Code Starts
 //Initial Template for C++
 
 
 #include <bits/stdc++.h>
 using namespace std;
 
-// } Driver Code Ends
 //User-function template for C++
 
 // Complete the function
