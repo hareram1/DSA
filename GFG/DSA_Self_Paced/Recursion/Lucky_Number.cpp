@@ -27,7 +27,6 @@ public:
     }
 };
 
-//{ Driver Code Starts.
 signed main(){
     int T;
     cin>>T;
@@ -43,4 +42,3 @@ signed main(){
     }
     
 }
-// } Driver Code Ends
