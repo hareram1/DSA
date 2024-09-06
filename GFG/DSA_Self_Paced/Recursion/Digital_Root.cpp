@@ -18,9 +18,6 @@ public:
     }
 };
 
-//{ Driver Code Starts.
-
-
 int main() {
 	int T;
 	cin>>T;//taking testcases
@@ -37,4 +34,3 @@ int main() {
 	}
 	return 0;
 }
-// } Driver Code Ends
