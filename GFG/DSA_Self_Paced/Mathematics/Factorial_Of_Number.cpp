@@ -1,11 +1,9 @@
-//{ Driver Code Starts
 // Initial Template for C++
 
 #include <bits/stdc++.h>
 using namespace std;
 long long factorial(int);
 
-// } Driver Code Ends
 // User function Template for C++
 
 class Solution{
