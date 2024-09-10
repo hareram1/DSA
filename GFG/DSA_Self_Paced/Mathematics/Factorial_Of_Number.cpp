@@ -16,7 +16,6 @@ class Solution{
     }
 };
 
-//{ Driver Code Starts.
 int main() {
     int T, N;
     cin >> T; // input number of testcases
@@ -27,5 +26,3 @@ int main() {
     }
     return 0;
 }
-
-// } Driver Code Ends
