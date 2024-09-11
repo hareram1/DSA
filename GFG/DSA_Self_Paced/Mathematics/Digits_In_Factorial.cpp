@@ -24,7 +24,6 @@ class Solution{
     }
 };
 
-//{ Driver Code Starts.
 
 int main()
 {
@@ -44,5 +43,3 @@ int main()
     }
     return 0;
 }
-
-// } Driver Code Ends
