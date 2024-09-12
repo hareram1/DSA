@@ -38,7 +38,6 @@ class Solution{
 
 };
 
-//{ Driver Code Starts.
 
 int main() {
     int T;    // number of testcases
@@ -51,4 +50,3 @@ int main() {
     }
     return 0;
 }
-// } Driver Code Ends
