@@ -18,11 +18,9 @@
     The absolute value of 45 is 45 itself.
 */
 
-//{ Driver Code Starts
 #include <bits/stdc++.h>
 using namespace std;
 
-// } Driver Code Ends
 // User function Template for C++
 
 class Solution{
