@@ -1,11 +1,7 @@
-//{ Driver Code Starts
-//Initial Template for C++
-
 // C++ program to check if n is sparse or not
 #include<iostream>
 using namespace std;
 
-// } Driver Code Ends
 //User function Template for C++
 
 class Solution
