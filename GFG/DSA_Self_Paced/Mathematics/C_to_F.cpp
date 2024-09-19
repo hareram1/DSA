@@ -39,7 +39,9 @@ class Solution{
     public:
     
     //You need to complete this function
-    double cToF(int C){
+    double cToF(int C)
+    {
+        //Your code here
     double f;
 
     f=double(C*1.8)+32;
@@ -49,6 +51,12 @@ class Solution{
 };
 
 //{ Driver Code Starts.
+
+
+
+
+
+
 
 int main()
 {
