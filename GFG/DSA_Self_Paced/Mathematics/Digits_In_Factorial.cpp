@@ -12,17 +12,17 @@ class Solution{
     public:
     int digitsInFactorial(int N)
     {
-        if(N<0)
-    return 0;
-    if(N<=1)
-    return 1;
-    else
-    {
-        double d=0;
-        for(int i=2;i<=N;i++)
-            d+=log10(i);
-        return floor(d)+1;
-    } // code here
+        if (N == 0 || N == 1) return 1; // 0! and 1! both have 1 digit
+
+        double digit_count = 0;
+        
+        // Summing up the logarithms of numbers from 2 to N
+        for (int i = 2; i <= N; i++) {
+            digit_count += log10(i);
+        }
+
+        // Return the number of digits, which is the floor of the sum of logs + 1
+        return floor(digit_count) + 1;
     }
 };
 
