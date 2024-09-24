@@ -29,11 +29,10 @@ class Solution{
     }
 
     return count;
-        //Your code here
+        
     }
 };
 
-//{ Driver Code Starts.
 
 
 int main()
@@ -46,10 +45,10 @@ int main()
     {
         int N;
         
-        //taking N
+        
         cin>>N;
         Solution ob;
-        //calling function exactly3Divisors()
+        
         cout<<ob.exactly3Divisors(N)<<endl;
     }
 	return 0;
