@@ -22,10 +22,6 @@ public:
 
 
 /*
-# Bit Manipulation Assignment
-
-This repository contains solutions to assigned LeetCode problems related to bit manipulation.
-
 ## Problem 191: Number of 1 Bits
 
 - **Platform:** LeetCode
@@ -64,7 +60,4 @@ The solution uses bit manipulation to examine the least significant bit of the n
 - **Time Complexity:** O(1) for a fixed 32-bit integer.
 - **Space Complexity:** O(1).
 
-### Source
-
-[LeetCode 191 — Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)
 */
